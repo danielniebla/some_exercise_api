@@ -21,7 +21,7 @@
       "APP_ENV": "production",
       "APP_KEY": "base64:2lunB/6fDlOFs0PiVKL2kZxwsfvLEyX+YGtpx+VZMWs=",
       "APP_DEBUG": "false",
-      "APP_URL": "https://vercel.com/beayhans-projects",
+      "APP_URL": "https://exercisecrud.vercel.app",
   
       "APP_CONFIG_CACHE": "/tmp/config.php",
       "APP_EVENTS_CACHE": "/tmp/events.php",
