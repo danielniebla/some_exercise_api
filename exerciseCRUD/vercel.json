@@ -6,7 +6,7 @@
     },
     "builds": [
       {
-        "src": "api/index.php",
+        "src": "dist/index.php",
         "use": "@vercel/php"
       }
     ],
