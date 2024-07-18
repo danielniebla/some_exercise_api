@@ -16,7 +16,8 @@ return new class extends Migration
             $table->string('name');
             $table->smallInteger('weight');
             $table->boolean('kgs')->default(true);
-            $table->string('description', 1000);
+            $table->string('description', 1000)->nullable();
+            $table->string('reps');
             $table->timestamps();
         });
     }
